@@ -1,0 +1,515 @@
+{
+  "what": "Unofficial redesign preview of www.eyecarenewbraunfels.com. Not operated by, affiliated with or endorsed by Eye Care New Braunfels.",
+  "preview": "https://chris-sgen.github.io/eyecarenewbraunfels/",
+  "liveSite": "https://www.eyecarenewbraunfels.com/",
+  "generated": "2026-10-28T07:36:15.299Z",
+  "snapshot": {
+    "pagesReadUtc": {
+      "first": "2026-10-27T23:30:32.258Z",
+      "last": "2026-10-27T23:31:05.528Z",
+      "addresses": 23
+    },
+    "picturesDownloadedByUtc": "2026-10-27T23:37:57.926Z",
+    "browserPassOverTheLiveSiteUtc": {
+      "from": "2026-10-27T23:40:42.984Z",
+      "to": "2026-10-27T23:47:16.984Z"
+    }
+  },
+  "pages": 22,
+  "files": 274,
+  "pagesOfTheLiveSite": {
+    "read": 23,
+    "carriedAtTheirAddresses": 20,
+    "partsOfTheOldPlatformNotPages": [
+      "/template/footer/",
+      "/template/header-2/",
+      "/template/header/"
+    ],
+    "posts": 0,
+    "films": 0,
+    "documents": 0,
+    "builtHere": [
+      "/404.html",
+      "/search/"
+    ]
+  },
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "robotsTags": 22,
+    "noReferrerTags": 22,
+    "jsonLdBlocksRemoved": 204,
+    "linkPreviewPictureTagsRemoved": 46,
+    "ogUrlRewritten": 22,
+    "siteNameRewritten": 22,
+    "descriptionsCarryingTheDisclosure": 22,
+    "twitterDescriptionsAdded": 9,
+    "pageDescriptionsReplaced": {
+      "promisedAFormHereHipaaCompliantToFillInOrToRegisterOnline": [
+        "/contact-us/appointment-request-form/",
+        "/contact-us/patient-registration-form/"
+      ]
+    },
+    "linkCardTitlesMarked": 22,
+    "iconLinksRemoved": 66,
+    "formsOfThePractice": {
+      "switchedOff": {
+        "/contact-us/appointment-request-form/": "the appointment request form",
+        "/contact-us/patient-registration-form/": "the patient registration form"
+      },
+      "hiddenGuards": 4,
+      "buttonsDisabled": 2,
+      "noticesInTheHeadOfThePage": 2,
+      "noticesAboveTheForm": 2,
+      "statusLines": 2,
+      "linesOfThePrivateBuildTakenOut": 4,
+      "templatesOfThePrivateBuildTakenOut": 2,
+      "partsTheRulesShowOnlyAfterAnAnswer": {
+        "form": "/contact-us/patient-registration-form/",
+        "parts": 26,
+        "hiddenBeforeAnyAnswer": 26
+      },
+      "bookingButtons": {
+        "words": "Request Appointment",
+        "count": 136,
+        "leadTo": "/contact-us/appointment-request-form/"
+      }
+    },
+    "picturesOfThePrivateBuildLeftOut": [],
+    "doctorsShownByTheirInitials": {
+      "silhouetteOfTheWebPlatform": {
+        "addresses": 4,
+        "picturesByTheirBytes": 2,
+        "livePages": [
+          "/",
+          "/our-optometric-team/",
+          "/team/dr-kevin-reynolds-od/",
+          "/team/dr-noemi-lozano-od/"
+        ],
+        "describedAs": [
+          "Dr. Kevin Reynolds, O.D.",
+          "Dr. Noemi Lozano, O.D."
+        ]
+      },
+      "initials": {
+        "tiles": 8,
+        "pages": [
+          "/",
+          "/our-optometric-team/",
+          "/team/dr-kevin-reynolds-od/",
+          "/team/dr-noemi-lozano-od/"
+        ],
+        "texts": [
+          "KR",
+          "NL"
+        ],
+        "inThePlacesOfTheLivePlaceholder": 6,
+        "onCardsAddedForTheOtherDoctor": [
+          "/team/dr-kevin-reynolds-od/",
+          "/team/dr-noemi-lozano-od/"
+        ]
+      }
+    },
+    "photographsShownAsOnTheLiveSite": {
+      "theTwoDoctorsBeforeThePracticesSign": {
+        "appearsToShow": "the practice's two doctors",
+        "livePage": [
+          "/our-optometric-team/"
+        ],
+        "pagesHere": [
+          "/",
+          "/our-optometric-team/"
+        ],
+        "describedAs": "Optometrist in New Braunfels, Texas"
+      },
+      "receptionDesk": {
+        "pagesHere": [
+          "/"
+        ]
+      },
+      "headOfTheHomePage": {
+        "shows": "a family on a picnic, in sunglasses",
+        "onTheLiveHomePage": "a background in its own content"
+      }
+    },
+    "filmsOfAVideoSiteNotShown": [],
+    "liveTextNotes": {
+      "pages": [
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/website-accessibility-policy/",
+        "/contact-us/"
+      ]
+    },
+    "linksThatLostMarks": {
+      "total": 1,
+      "links": [
+        {
+          "page": "/",
+          "host": "www.google.com",
+          "marks": [
+            "lsig"
+          ]
+        }
+      ]
+    },
+    "mapFramesWithNoReferrer": {
+      "frames": 21,
+      "alreadySoInThePrivateBuild": 21
+    },
+    "canonicalRemoved": [
+      "/404.html",
+      "/search/"
+    ],
+    "searchIndexEntriesReducedToTitleSectionAndShortNames": [
+      "/contact-us/",
+      "/contact-us/appointment-request-form/",
+      "/contact-us/patient-registration-form/",
+      "/disclaimer/",
+      "/privacy-policy/",
+      "/website-accessibility-policy/"
+    ],
+    "loopAndSearchIndexAddressesMadeRelativeToThePage": 3,
+    "toolingHelperRemovedFromPages": 21,
+    "scriptsPatchedForAFilmFrame": [
+      "assets/js/site.2ba23b38a3.js"
+    ],
+    "commentsTakenOut": {
+      "css": 296,
+      "js": 111
+    },
+    "svgCleaned": [],
+    "aiLabels": {
+      "webp": 7,
+      "mp4": 2
+    },
+    "notShipped": [
+      ".htaccess",
+      "llms.txt",
+      "sitemap.xml",
+      "sitemaps/sitemap-blog-categories.xml",
+      "sitemaps/sitemap-locations.xml",
+      "sitemaps/sitemap-pages.xml",
+      "vercel.json",
+      "_headers",
+      "_redirects"
+    ],
+    "robotsTxt": "the private build's file is replaced by the preview's own (Disallow: /)",
+    "filesNothingNamesNotShipped": {
+      "total": 4,
+      "picturesOnlyTheLinkPreviewTagsNamed": [
+        {
+          "file": "assets/img/404-98bb029e-485w.webp",
+          "what": "a version of the picture of the not-found pages",
+          "namedByTheTagsOf": [
+            "/404.html"
+          ]
+        },
+        {
+          "file": "assets/img/kevin-gsp-uid-9dfe2abb-ad76-4ef9-ac79-04c0c052e2-1cc4827d-427w.webp",
+          "what": "a version of the platform's placeholder for the doctors' portraits",
+          "namedByTheTagsOf": [
+            "/team/dr-kevin-reynolds-od/",
+            "/team/dr-noemi-lozano-od/"
+          ]
+        }
+      ],
+      "filesOfThePracticesIcon": [
+        "assets/img/icon-b235bf74-96w.webp",
+        "assets/img/icon-d1aa92898d.png"
+      ]
+    },
+    "fontLicences": [
+      "assets/fonts/OFL-WorkSans.txt"
+    ],
+    "preview_css": "assets/css/preview.css"
+  },
+  "generatedMedia": [
+    {
+      "file": "loop-appointment",
+      "kind": "loop",
+      "shows": "deep teal eyeglasses folded on white linen over a light wood counter, beside a white cup on its saucer and a small terracotta dish, with the light cast through the lenses drifting slowly over the linen, from aqua to a pale blush and back (made from one still, used as its first and last frame)",
+      "retouched": "a pretend size print that the model drew along the inside of the right temple was taken off the still it was made from",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame, from a still made for it (fal.ai: nano-banana-pro)",
+      "files": 5,
+      "pages": [
+        "/contact-us/appointment-request-form/"
+      ]
+    },
+    {
+      "file": "still-registration-clean",
+      "kind": "still",
+      "shows": "a pale wooden clipboard of blank white paper with a plain deep teal pen across it, black metal eyeglasses folded beside it and a sprig of eucalyptus, on white linen over a light wood desk",
+      "retouched": "a pretend size print that the model drew along the inside of the left temple was taken off",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 4,
+      "pages": [
+        "/contact-us/patient-registration-form/"
+      ]
+    }
+  ],
+  "generatedMediaRetouched": [
+    {
+      "still": "still-registration",
+      "rectangles": 10,
+      "pixels": 856,
+      "share": "0.02%",
+      "temple": "left"
+    },
+    {
+      "still": "still-appointment",
+      "rectangles": 7,
+      "pixels": 1344,
+      "share": "0.03%",
+      "temple": "right"
+    }
+  ],
+  "generatedMediaRemarks": [
+    {
+      "id": "still-appointment",
+      "remark": "The still itself is not shipped as a picture of its own: the appointment request page shows the loop made from it, with the loop's first frame as the poster."
+    },
+    {
+      "id": "loop-appointment",
+      "remark": "Five seconds, 24 frames a second, first and last frame the same picture (the retouched still): the light through the lenses drifts over the linen, from soft aqua to a pale blush and back, and returns; the eyeglasses, the cup and the dish do not move. Encoded silent at 1280 and 768 px by the private build, none of the service's tags carried over."
+    }
+  ],
+  "generatedMediaEstimatedPriceUsd": {
+    "total": 1.16,
+    "note": "the sum of the estimates the record of each request states, from the services' price lists"
+  },
+  "synthId": "the C2PA manifest of each fal.ai original says \"Applied imperceptible SynthID watermark.\" (a watermark in the picture itself); not tested for in the shipped files",
+  "homePage": {
+    "runsOfTextOfItsOwnContentThatTheLiveHomePageDoesNotPrint": {
+      "addressOnOneLine": [
+        "2164 Gabriels Place St 103, New Braunfels, TX 78130"
+      ],
+      "monthOfTheReview": [
+        "March 2025"
+      ],
+      "initialsOfTheDoctors": [
+        "KR",
+        "NL"
+      ]
+    },
+    "labelsForScreenReadersTheLiveHomePageDoesNotHave": [
+      "Optometrist in New Braunfels, Texas",
+      "Rated 5 out of 5"
+    ],
+    "photographAddedBesideTheDoctors": "the-eye-doctors-at-eye-care-new-braunfels.jpg",
+    "note": "its own content is what stands between its header and the contact band before its footer; the header, menus and footer are those of every page"
+  },
+  "review": {
+    "onTheLiveHomePage": 1,
+    "signedAs": [
+      "Lorena Zuaz"
+    ],
+    "stars": 5,
+    "printedAs": "March 2025",
+    "insteadOf": "a year ago"
+  },
+  "verification": {
+    "measured": "on a local server imitating a GitHub Pages project site under the project path",
+    "browser": "Chrome 156",
+    "previewChecksVerdict": "PASS",
+    "pageLoads": 43,
+    "picturesLoaded": 458,
+    "loopsPlayed": 1,
+    "formTrials": {
+      "forms": 2,
+      "trials": 16,
+      "shipped": 4,
+      "control": 4,
+      "attributes": 4,
+      "guards": 4,
+      "controlsSeen": 4,
+      "enterPressed": 4,
+      "buttonClicked": 4
+    },
+    "search": {
+      "results": 1,
+      "outside": 0
+    },
+    "referencesRead": 2095,
+    "localReferences": 1750,
+    "binaries": {
+      "webp": 234,
+      "mp4": 2,
+      "woff2": 4,
+      "svg": 0,
+      "aiLabels": 9
+    },
+    "selfTest": {
+      "defectsPlanted": 137,
+      "reportsExpected": 164,
+      "reportsGiven": 164,
+      "staticRules": 160,
+      "staticRulesExercised": 140,
+      "staticRulesNotExercised": {
+        "note": "rules of the verifier, which is written for previews of other sites too: 18 are about kinds of content this copy does not have (pictures left out, boxes for directions, pages written in Spanish, another address of the clinic, a place that is not the practice's, a document of the practice, links not carried, links through an affiliate redirect, links that credit an application to the practice, a former web address and the forms of a review company), 0 about files the verifier cannot read at all, and 2 about missing or mislabelled files that the self-test does not plant",
+        "rules": [
+          "a file of a picture this copy does not show",
+          "a note for a box for directions that does not name its destination",
+          "a note on a page written in Spanish that does not say its language",
+          "the note in Spanish is missing or doubled",
+          "a link that dials the other number of the pages written in Spanish",
+          "another address of the clinic on a page without the note that says so",
+          "a place that is not the practice's",
+          "links to the practice's document: not one for each link of the private build",
+          "a link to the practice's document without rel=\"nofollow noopener\"",
+          "a picture this copy does not show",
+          "a link this copy does not carry (preview-config.mjs > dropLinks)",
+          "a link through an affiliate redirect",
+          "a link that credits an application to the practice's account",
+          "a link to the former web address of the practice",
+          "the search index names a picture this copy does not show",
+          "the search index names a place that is not the practice's",
+          "the search index names another address of the clinic outside the page whose note says so",
+          "missing (the host would answer an unknown address with its own page)",
+          "the forms of the review company in the private build are not the ones preview-config.mjs names",
+          "missing (run preview-docs.mjs)"
+        ]
+      },
+      "plantsNotMade": [
+        {
+          "rule": "a picture this copy does not show",
+          "why": "preview-config.mjs > notShown is empty: this copy leaves no picture of the live site out, so the verifier has no file name to look for"
+        },
+        {
+          "rule": "a link that dials the other number",
+          "why": "preview-config.mjs > otherNumber names no number: the live site gives no other telephone number (its href is a placeholder no page can carry)"
+        },
+        {
+          "rule": "links to the practice's document: not one for each link of the private build",
+          "why": "preview-config.mjs > documents is null: the live site links no document of the practice, so no page carries a link to one"
+        },
+        {
+          "rule": "a link to the practice's document without rel=\"nofollow noopener\"",
+          "why": "preview-config.mjs > documentLive is empty: there is no live address of a document to link"
+        },
+        {
+          "rule": "a link this copy does not carry",
+          "why": "preview-config.mjs > dropLinks is empty: the live site has no link whose address carries a person's data"
+        },
+        {
+          "rule": "a link that says where the visit comes from (a mark written into the path of a link)",
+          "why": "preview-config.mjs > pathMarks is empty: no link of the live site carries a mark in its path"
+        },
+        {
+          "rule": "a link that credits an application to the practice's account",
+          "why": "preview-config.mjs > referralLinks is empty: the live site has no link that credits an application to the practice"
+        },
+        {
+          "rule": "a link that says where the visit comes from (a book seller's associate marks)",
+          "why": "preview-config.mjs > hostMarks names the marks of a Google search only: the live site links no book seller"
+        },
+        {
+          "rule": "a link through an affiliate redirect",
+          "why": "preview-config.mjs > affiliateRedirects is empty: the live site has no link through an affiliate redirect"
+        },
+        {
+          "rule": "the search index names a picture this copy does not show",
+          "why": "preview-config.mjs > notShown is empty"
+        },
+        {
+          "rule": "a file of a picture this copy does not show",
+          "why": "preview-config.mjs > notShown is empty"
+        }
+      ],
+      "pageCopies": {
+        "planted": 65,
+        "findingsOnAnUnplantedCopy": 0
+      },
+      "rulesOfTheBrowserPass": 22,
+      "rulesOfTheFormTrials": 12,
+      "rulesOfThePublicAddressPass": 19
+    }
+  },
+  "pictures": {
+    "fromTheLiveSiteByFileName": 181,
+    "fromTheLiveSiteCountingEachVersion": 181,
+    "generatedFiles": 9,
+    "pagesShowingAGeneratedPicture": [
+      "/contact-us/appointment-request-form/",
+      "/contact-us/patient-registration-form/"
+    ],
+    "pagesThatMustShowNoGeneratedPicture": {
+      "words": [
+        "/team/",
+        "/our-optometric-team/",
+        "/location/"
+      ],
+      "pages": [
+        "/category/location/",
+        "/category/our-optometric-team/",
+        "/location/eye-care-new-braunfels/",
+        "/our-optometric-team/",
+        "/team/dr-kevin-reynolds-od/",
+        "/team/dr-noemi-lozano-od/"
+      ]
+    },
+    "addressesTheLivePagesAndTheirStylesheetsName": 212,
+    "shownByThePrivateBuildOnItsPages": 181,
+    "keptByThePrivateBuildOnlyForLinkPreviewTags": [
+      "assets/img/404-98bb029e-485w.webp",
+      "assets/img/kevin-gsp-uid-9dfe2abb-ad76-4ef9-ac79-04c0c052e2-1cc4827d-427w.webp"
+    ],
+    "notShownByThePrivateBuild": {
+      "silhouette": 4,
+      "secondCopyOfAContactLensBox": 1,
+      "photographBehindTheLogosOfTheEyeglassesPage": 1,
+      "tabIcon": 1,
+      "smallIconsOfThePlatformAndItsFormPlugin": 5,
+      "creditLogoOfThePlatform": 1,
+      "decorationsOfThePlatformsStylesheets": 18,
+      "ofWhichNotDownloaded": 1
+    }
+  },
+  "linksThatLeaveThisCopy": {
+    "google.com": 44,
+    "facebook.com": 22,
+    "maps.app.goo.gl": 22,
+    "get.adobe.com": 1
+  },
+  "mailLinks": {
+    "address": [
+      "eyecarenb2020@yahoo.com"
+    ],
+    "links": 25
+  },
+  "privateBuildAudit": {
+    "gate": {
+      "verdict": "NOT-READY",
+      "pass": 21,
+      "fail": [
+        "C05",
+        "C06",
+        "C07",
+        "C16",
+        "C17",
+        "C18",
+        "C20",
+        "C22"
+      ],
+      "unproven": 0
+    },
+    "textUnits": {
+      "checked": 1659,
+      "found": 1650,
+      "leftOutWithReason": 9,
+      "missing": 0
+    },
+    "meanRecall": 99.36,
+    "sweep": {
+      "loads": 88,
+      "blocker": 0,
+      "major": 0,
+      "minor": 10,
+      "nit": 1
+    },
+    "decontamination": "CLEAN",
+    "downloadFailures": {
+      "total": 1,
+      "decorationOfTheOldStylesheets": 1
+    }
+  }
+}
