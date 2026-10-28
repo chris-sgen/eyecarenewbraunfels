@@ -2,7 +2,7 @@
   "what": "Unofficial redesign preview of www.eyecarenewbraunfels.com. Not operated by, affiliated with or endorsed by Eye Care New Braunfels.",
   "preview": "https://chris-sgen.github.io/eyecarenewbraunfels/",
   "liveSite": "https://www.eyecarenewbraunfels.com/",
-  "generated": "2026-10-28T07:36:15.299Z",
+  "generated": "2026-10-28T07:51:07.945Z",
   "snapshot": {
     "pagesReadUtc": {
       "first": "2026-10-27T23:30:32.258Z",
@@ -308,7 +308,7 @@
     "insteadOf": "a year ago"
   },
   "verification": {
-    "measured": "on a local server imitating a GitHub Pages project site under the project path",
+    "measured": "on a local server imitating a GitHub Pages project site under the project path, then at the public address",
     "browser": "Chrome 156",
     "previewChecksVerdict": "PASS",
     "pageLoads": 43,
@@ -422,6 +422,40 @@
       "rulesOfTheBrowserPass": 22,
       "rulesOfTheFormTrials": 12,
       "rulesOfThePublicAddressPass": 19
+    },
+    "publicAddress": {
+      "filesIdentical": 270,
+      "filesAsked": 270,
+      "notFound": {
+        "status": 404,
+        "isThePage": true
+      },
+      "withoutSlash": {
+        "page": "404-page-not-found/",
+        "status": 301,
+        "location": "https://chris-sgen.github.io/eyecarenewbraunfels/404-page-not-found/"
+      },
+      "capitals": {
+        "asked": "404-PAGE-NOT-FOUND/",
+        "status": 404
+      },
+      "browserPages": [
+        "/",
+        "/contact-us/",
+        "/contact-us/appointment-request-form/",
+        "/our-optometric-team/"
+      ],
+      "formTrials": {
+        "forms": 2,
+        "trials": 16,
+        "shipped": 4,
+        "control": 4,
+        "attributes": 4,
+        "guards": 4,
+        "controlsSeen": 4,
+        "enterPressed": 4,
+        "buttonClicked": 4
+      }
     }
   },
   "pictures": {
